@@ -40,4 +40,21 @@
   + 试画出简单工厂模式的模式结构图，并对模式进行分析。  
   + 试画出工厂方法模式的模式结构图，并对模式进行分析。  
   + 现需要设计一个程序来读取多种不同类型的图片格式，针对每一种图片格式都设计个图片读取器( ImageReader)，如GIF图片读取器( GifReader)用于读取GIF格式的图片、JPG图片读取器( Jpgreader)用于读取JPG格式的图片。图片读取器对象通过图片读取器工厂ImageReaderFactory来创建，ImageReaderFactory是一个抽象类，用于创建图片读取器的工厂方法，其子类 GifReaderFactory和  JpgReaderFactory用于创建具体的图片读取器对象。使用工厂方法模式实现该程序的设计。  
-    + （画出模式结构图，并进行解析）
+    + （画出模式结构图，并进行解析）  
+
+
+
++ **设计模式作业六（创建者模式二）**  
+
+  + 试画出抽象工厂模式的模式结构图，并对模式进行分析。  
+
+  + 试画出建造者模式的模式结构图，并对模式进行分析。
+
+  + 计算机包括内存（RAM）,CPU等硬件设备，根据图中的”产品等级结构--产品族“示意图，使用抽象工厂模式实现计算机设备创建过程并绘制出相应的类图。
+
+    + （画出模式结构图，并进行解析） 
+
+      ！[image]([https://github.com/baobaotql/CCNU_DesignPattern/blob/master/%E8%AF%BE%E5%90%8E%E9%A2%98%E7%9B%AE/pic1.png](https://github.com/baobaotql/CCNU_DesignPattern/blob/master/课后题目/pic1.png))
+
+
+
