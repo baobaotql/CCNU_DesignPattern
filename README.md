@@ -54,7 +54,4 @@
 
     + （画出模式结构图，并进行解析） 
 
-      ！[image]([https://github.com/baobaotql/CCNU_DesignPattern/blob/master/%E8%AF%BE%E5%90%8E%E9%A2%98%E7%9B%AE/pic1.png](https://github.com/baobaotql/CCNU_DesignPattern/blob/master/课后题目/pic1.png))
-
-
-
+      ![image](https://github.com/baobaotql/CCNU_DesignPattern/blob/master/课后题目/pic1.png)
