@@ -54,4 +54,10 @@
 
     + （画出模式结构图，并进行解析） 
 
-      ![image](https://github.com/baobaotql/CCNU_DesignPattern/blob/master/课后题目/pic1.png)
+      ![image](https://github.com/baobaotql/CCNU_DesignPattern/blob/master/课后题目/pic1.png)  
+
+
+
++ **设计模式作业七（创建者模式三）**
+  + 设计一个客户类 Customer, 其中客户地址存储在地址类 Address中, 用浅克隆和深克隆分别实现 Customer对象的复制并比较这两种克隆方式的异同。绘制类图并编程实现。
+  + 使用单例模式的思想实现多例模式，确保系统中某个类的对象只能存在有限个，如两个或三个，设计并编写代码实现一个多例类。
