@@ -18,7 +18,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
-    <normaloff>:/HTYPaint.png</normaloff>:/HTYPaint.png</iconset>
+    <normaloff>:/baobaoPaint.png</normaloff>:/baobaoPaint.png</iconset>
   </property>
   <widget class="QWidget" name="centralWidget"/>
   <widget class="QMenuBar" name="menuBar">
