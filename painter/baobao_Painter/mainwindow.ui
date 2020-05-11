@@ -14,7 +14,7 @@
    <bool>true</bool>
   </property>
   <property name="windowTitle">
-   <string>海天鹰画图</string>
+   <string>鲍鲍小画板</string>
   </property>
   <property name="windowIcon">
    <iconset resource="res.qrc">
@@ -429,10 +429,10 @@
      <normaloff>:/eraser.png</normaloff>:/eraser.png</iconset>
    </property>
    <property name="text">
-    <string>擦子</string>
+    <string>笔刷</string>
    </property>
    <property name="toolTip">
-    <string>擦子</string>
+    <string>笔刷</string>
    </property>
   </action>
   <action name="actionMove">
