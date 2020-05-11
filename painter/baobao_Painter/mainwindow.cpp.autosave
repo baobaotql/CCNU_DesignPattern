@@ -560,10 +560,10 @@ void MainWindow::on_action_invert_triggered()
     imageWidget->invert();
 }
 
-//void MainWindow::on_action_transparent_triggered()
-//{
-//    imageWidget->transparent();
-//}
+void MainWindow::on_action_transparent_triggered()
+{
+    imageWidget->transparent();
+}
 
 void MainWindow::on_action_blur_triggered()
 {
