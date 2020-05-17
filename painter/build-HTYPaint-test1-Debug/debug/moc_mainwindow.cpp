@@ -244,7 +244,7 @@ void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         case 16: _t->on_action_invert_triggered(); break;
         case 17: _t->on_action_blur_triggered(); break;
         case 18: _t->on_action_mosaic_triggered(); break;
-//        case 19: _t->on_action_transparent_triggered(); break;
+        case 19: _t->on_action_transparent_triggered(); break;
         case 20: _t->on_action_adjustRGB_triggered(); break;
         case 21: _t->on_action_clipPath_triggered(); break;
         case 22: _t->on_actionRotateLeft_triggered(); break;
